@@ -25,7 +25,6 @@ I enjoy turning complex problems into simple, practical solutions 🚀
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
@@ -36,6 +35,10 @@ I enjoy turning complex problems into simple, practical solutions 🚀
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=celery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=plastic&logo=duckdb&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zahid9966&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
